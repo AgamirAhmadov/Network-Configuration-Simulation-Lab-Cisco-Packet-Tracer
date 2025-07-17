@@ -1,6 +1,7 @@
 # Network-Configuration-Simulation-Lab-Cisco-Packet-Tracer
 This lab was completed using Cisco Packet Tracer to design and simulate a functional small network. The lab focused on inter-router connectivity and the configuration of essential network services, providing hands-on experience with real-world network setups.
 
+
 Key Tasks Performed:
 Created a network topology with two routers, switches, and multiple end devices
 
